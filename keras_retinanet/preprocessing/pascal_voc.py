@@ -28,7 +28,7 @@ except ImportError:
     import xml.etree.ElementTree as ET
 
 voc_classes = {
-    'bottle'   : 0,
+    'bottle'   : 0
 
 }
 
